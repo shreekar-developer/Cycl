@@ -6,7 +6,7 @@ CYCL is an app that helps users identify if an object is recyclable or trash and
 
 ****Credits:****
 
-**From Pub.dev: **
+From Pub.dev:
   camera: ^0.8.1
   path_provider: ^2.0.1
   path: ^1.8.0

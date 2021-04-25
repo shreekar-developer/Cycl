@@ -6,16 +6,7 @@ CYCL is an app that helps users identify if an object is recyclable or trash and
 
 **Credits:**
 
-From Pub.dev:
-  camera: ^0.8.1
-  path_provider: ^2.0.1
-  path: ^1.8.0
-  firebase_core: ^1.0.4
-  flutter_login: ^1.1.0
-  firebase_auth: ^1.1.1
-  google_sign_in: ^5.0.2
-  cloud_firestore: ^1.0.6
-  tflite: ^1.1.2
+**From Pub.dev:** camera: ^0.8.1, path_provider: ^2.0.1, path: ^1.8.0, firebase_core: ^1.0.4, flutter_login: ^1.1.0, firebase_auth: ^1.1.1, google_sign_in: ^5.0.2, cloud_firestore: ^1.0.6, tflite: ^1.1.2
 
 teachablemachine by Google partially used to create ML Model
 

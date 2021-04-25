@@ -1,4 +1,10 @@
 # shsHacks-20-21
 
-This is an app where a user can scan pieces of garbage on their mobile device. Using Machine Learning, it will be able to classify what kind of garbage it is and whether it is recyclable based on its confidence. If it is recyclable, it will provide instructions on how to recycle it, if not, the user will be able to sell it on our marketplace. 
 
+CYCL is an app that helps users identify if an object is recyclable or trash and demonstrates appropriate disposal methods to prevent recyclable materials ending up in landfills. CYCL then allows users to sell or exchange their items that would otherwise have been donated, in order to ensure that their items are ending up with people and not trash. CYCL is an app that focuses on ecological sustainability through recycling disposal methods as well as it’s marketplace for consumer items and donations. However, we also aim to create a community that uses CYCL to build awareness of recycling habits and support social sustainability to create a future that is smarter, more efficient, and CYCLs smoothly.
+CYCL is an app that helps users identify if an object is recyclable or trash and demonstrates appropriate disposal methods to prevent recyclable materials ending up in landfills.
+
+**Credits:**
+
+From Pub.dev: 
+  

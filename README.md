@@ -10,3 +10,5 @@ CYCL is an app that helps users identify if an object is recyclable or trash and
 
 teachablemachine by Google partially used to create ML Model
 
+Dataset from: https://www.kaggle.com/mostafaabla/garbage-classification
+

@@ -12,5 +12,5 @@ teachablemachine by Google partially used to create ML Model
 
 Dataset from: https://www.kaggle.com/mostafaabla/garbage-classification
 
-3rd Place winner for shsHacks Hackathon
+
 
